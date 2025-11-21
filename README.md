@@ -15,7 +15,7 @@ Students compete in teams answering polynomial questions. Correct answers move t
 - Shows correct answers when students get questions wrong
 - Mobile-friendly design
 
-## How to Play
+## How to Play (https://jamie-lafollette.github.io/niceville-polynomial-quest/)
 
 1. Enter 2-4 team names
 2. Teams take turns drawing questions
@@ -43,5 +43,6 @@ This app is automatically deployed to GitHub Pages on every push to the main bra
 - GitHub Pages
 
 ---
+
 
 Made with ❤️ for Niceville High School Eagles

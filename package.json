@@ -1,6 +1,6 @@
 {
   "name": "niceville-polynomial-quest",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "homepage": "https://jamie-lafollette.github.io/niceville-polynomial-quest",
   "private": true,
   "dependencies": {
@@ -34,4 +34,5 @@
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
+
 }
